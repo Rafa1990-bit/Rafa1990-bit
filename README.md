@@ -12,6 +12,7 @@ Estudante de TI focado em **DevOps e Cloud**, em transição de carreira.
 
 ## 🛠️ Tecnologias que estou aprendendo
 Linux • Git • Docker • Kubernetes • Redes • Cloud
+
 ## 📜 Certificados
 - 🐳 Docker Completo do Zero ao Avançado (Udemy, 2026)
 
