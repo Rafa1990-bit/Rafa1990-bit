@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Alves 👋
 
-<!--
-**Rafa1990-bit/Rafa1990-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de TI focado em **DevOps e Cloud**, em transição de carreira.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Cursando faculdade de TI
+- 💻 Cerca de 10 anos de experiência com montagem e manutenção de computadores
+- 🐧 Estudando Linux, Docker e Kubernetes
+- 🌐 Lendo "Redes de Computadores" do Tanenbaum
+- 🥋 Faixa-preta e professor de jiu-jítsu: disciplina e constância são a minha base
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+Linux • Git • Docker • Kubernetes • Redes • Cloud
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/rafael-alves-pereira-49496934b/)
