@@ -4,6 +4,7 @@ Estudante de TI focado em **DevOps e Cloud**, em transição de carreira.
 
 ## 🚀 Sobre mim
 - 🎓 Cursando faculdade de TI
+- - 🏋️ Formado em Educação Física, atuo como personal trainer
 - 💻 Cerca de 10 anos de experiência com montagem e manutenção de computadores
 - 🐧 Estudando Linux, Docker e Kubernetes
 - 🌐 Lendo "Redes de Computadores" do Tanenbaum
